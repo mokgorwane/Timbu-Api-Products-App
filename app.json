@@ -1,7 +1,9 @@
 {
   "expo": {
-    "name": "dipstore-app",
-    "slug": "dipstore-app",
-    "version": "1.0.0"
+    "extra": {
+      "eas": {
+        "projectId": "9d63dcf1-ae80-4492-8091-60231bdf8264"
+      }
+    }
   }
 }

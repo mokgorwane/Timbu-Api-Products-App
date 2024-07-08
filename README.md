@@ -23,7 +23,7 @@ Timbu Products App is a mobile application that retrieves and displays product i
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/timbu-products-app.git
+   git clone https://github.com/mokgorwane/Timbu-Api-Products-App
    cd timbu-products-app
 
 
@@ -35,7 +35,7 @@ Timbu Products App is a mobile application that retrieves and displays product i
 
 You can interactively preview our app using Appetize.io. Click the link below to launch the demo:
 
-[Launch the Appetize.io Demo](https://appetize.io/app/android/com.dipstoreapp?device=pixel7&osVersion=13.0)
+[Launch the Appetize.io Demo](https://appetize.io/app/b_kdctitdtuazgeohjwq2v5y6c34?device=pixel7&osVersion=13.0)
 
 ### Dependencies
 
